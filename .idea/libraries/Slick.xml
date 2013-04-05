@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Slick">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/libs/lwjgl.jar!/" />
+      <root url="jar://$USER_HOME$/libs/slick.jar!/" />
+      <root url="jar://$USER_HOME$/libs/lwjgl_util.jar!/" />
+      <root url="jar://$USER_HOME$/libs/jinput.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
